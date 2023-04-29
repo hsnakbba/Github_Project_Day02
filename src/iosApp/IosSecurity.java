@@ -5,6 +5,8 @@ public class IosSecurity {
 
        // let me help you out
         // shopping cart
+        // deals
+        // new changes
 
     }
 }
