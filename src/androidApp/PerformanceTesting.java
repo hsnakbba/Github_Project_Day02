@@ -7,4 +7,5 @@ public class PerformanceTesting {
     // test login page function-
     // test credentials
     // run positive testing
+    // run negative testing by using user credentials
 }
